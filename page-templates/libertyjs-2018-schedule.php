@@ -68,7 +68,7 @@ get_header();
 						alt="Karl Groves">
 					<div class="ljs-template-schedule__speaker-info">
 						<span class="ljs-template-schedule__time">10:45 - 11:25</span>
-						<span class="ljs-template-schedule__name"><a href="hhttps://libertyjs.com/speakers/karl-groves/">Karl Groves</a></span>
+						<span class="ljs-template-schedule__name"><a href="https://libertyjs.com/speakers/karl-groves/">Karl Groves</a></span>
 						<span class="ljs-template-schedule__title">Everything you need to know about JS accessibility</span>
 					</div>
 				</div>
