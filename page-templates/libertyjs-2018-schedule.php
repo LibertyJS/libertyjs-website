@@ -283,7 +283,7 @@ get_header();
 					<div class="ljs-template-schedule__speaker-info">
 						<span class="ljs-template-schedule__time">01:30 - 03:05</span>
 						<span class="ljs-template-schedule__name"><a href="https://libertyjs.com/speakers/angel-rivera/">Angel Rivera</a></span>
-						<span class="ljs-template-schedule__title">Asynchronous JavaScript: From Callbacks to Async/Await</span>
+						<span class="ljs-template-schedule__title">CI\CD 101 WITH CIRCLECI WORKSHOP</span>
 					</div>
 				</div>
 			</div>
