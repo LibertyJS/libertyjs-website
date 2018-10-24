@@ -143,6 +143,22 @@ Template Name: Homepage
 		</a>
 	</div>
 	<div class="ljs-sponsors-mobile__sponsor ljs-sponsors__show">
+		<a href="https://www.vistarmedia.com/" target="_blank">
+			<img
+				class="ljs-sponsors-mobile__logo"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-vistar-logo.jpg"
+				alt="Vistar Media Logo">
+		</a>
+	</div>
+	<div class="ljs-sponsors-mobile__sponsor ljs-sponsors__show">
+		<a href="https://www.getguru.com/" target="_blank">
+			<img
+				class="ljs-sponsors-mobile__logo"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.jpg"
+				alt="Guru Logo">
+		</a>
+	</div>
+	<div class="ljs-sponsors-mobile__sponsor ljs-sponsors__show">
 		<a href="https://www.workarea.com/" target="_blank">
 			<img
 				class="ljs-sponsors-mobile__logo"
@@ -198,6 +214,20 @@ Template Name: Homepage
 				alt="Linode Logo">
 		</a>
 
+	</div>
+	<div class="ljs-sponsors__sponsor-block ljs-sponsors__show">
+		<a href="https://www.vistarmedia.com/" target="_blank" class="ljs-sponsors__sponsor ljs-sponsors__show">
+			<img
+				class="ljs-sponsors__logo"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-vistar-logo.jpg"
+				alt="Vistar Media Logo">
+		</a>
+		<a href="https://www.getguru.com/" target="_blank" class="ljs-sponsors__sponsor ljs-sponsors__show">
+			<img
+				class="ljs-sponsors__logo"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.jpg"
+				alt="Guru Logo">
+		</a>
 	</div>
 	<div class="ljs-sponsors__sponsor-block ljs-sponsors__show">
 		<a
