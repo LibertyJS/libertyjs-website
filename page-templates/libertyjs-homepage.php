@@ -235,7 +235,7 @@ Template Name: Homepage
 				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.png"
 				alt="Guru Logo">
 		</a>
-		<a href="https://www.underarmour.com/" target="_blank">
+		<a href="https://www.underarmour.com/" target="_blank" class="ljs-sponsors__sponsor ljs-sponsors__show">
 			<img
 				class="ljs-sponsors__logo"
 				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-ua-logo.png"
