@@ -146,7 +146,7 @@ Template Name: Homepage
 		<a href="https://www.vistarmedia.com/" target="_blank">
 			<img
 				class="ljs-sponsors-mobile__logo"
-				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-vistar-logo.jpg"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-vistar-logo.png"
 				alt="Vistar Media Logo">
 		</a>
 	</div>
@@ -154,7 +154,7 @@ Template Name: Homepage
 		<a href="https://www.getguru.com/" target="_blank">
 			<img
 				class="ljs-sponsors-mobile__logo"
-				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.jpg"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.png"
 				alt="Guru Logo">
 		</a>
 	</div>
@@ -174,7 +174,14 @@ Template Name: Homepage
 				alt="STRATIS IoT Logo">
 		</a>
 	</div>
-
+	<div class="ljs-sponsors-mobile__sponsor ljs-sponsors__show">
+		<a href="https://www.underarmour.com/" target="_blank">
+			<img
+				class="ljs-sponsors-mobile__logo"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-ua-logo.png"
+				alt="Under Armour Logo">
+		</a>
+	</div>
 </div>
 <div class="ljs-sponsors__container">
 	<div class="ljs-sponsors__sponsor-block ljs-sponsors__show">
@@ -219,14 +226,20 @@ Template Name: Homepage
 		<a href="https://www.vistarmedia.com/" target="_blank" class="ljs-sponsors__sponsor ljs-sponsors__show">
 			<img
 				class="ljs-sponsors__logo"
-				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-vistar-logo.jpg"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-vistar-logo.png"
 				alt="Vistar Media Logo">
 		</a>
 		<a href="https://www.getguru.com/" target="_blank" class="ljs-sponsors__sponsor ljs-sponsors__show">
 			<img
 				class="ljs-sponsors__logo"
-				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.jpg"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-guru-logo.png"
 				alt="Guru Logo">
+		</a>
+		<a href="https://www.underarmour.com/" target="_blank">
+			<img
+				class="ljs-sponsors__logo"
+				src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/2018/ljs-ua-logo.png"
+				alt="Under Armour Logo">
 		</a>
 	</div>
 	<div class="ljs-sponsors__sponsor-block ljs-sponsors__show">
