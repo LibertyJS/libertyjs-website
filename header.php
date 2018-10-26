@@ -17,7 +17,7 @@
 <link rel="icon" type="image/png" sizes="96x96" href="<?php echo esc_url( get_stylesheet_directory_uri() . '/favicon-96x96.png' ); ?>">
 <link rel="icon" type="image/png" sizes="16x16" href="<?php echo esc_url( get_stylesheet_directory_uri() . '/favicon-16x16.png' ); ?>">
 
-<title>LibertyJS</title>
+<title>LibertyJS - A two day premier Javascript conference in Philadelphia</title>
 
 <?php wp_head(); ?>
 </head>
