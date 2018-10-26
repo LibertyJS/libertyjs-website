@@ -281,7 +281,7 @@ get_header();
 						src="https://hvz5h5ar027h1qc4-zippykid.netdna-ssl.com/wp-content/uploads/2018/10/AngelRivera.gif"
 						alt="Angel Rivera">
 					<div class="ljs-template-schedule__speaker-info">
-						<span class="ljs-template-schedule__time">01:30 - 03:05</span>
+						<span class="ljs-template-schedule__time">03:20 - 04:55</span>
 						<span class="ljs-template-schedule__name"><a href="https://libertyjs.com/speakers/angel-rivera/">Angel Rivera</a></span>
 						<span class="ljs-template-schedule__title">CI\CD 101 WITH CIRCLECI WORKSHOP</span>
 					</div>
