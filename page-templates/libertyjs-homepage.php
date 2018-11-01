@@ -8,7 +8,7 @@ Template Name: Homepage
 
 <div class="ljs-header-cta__container">
 	<div class="ljs-header-cta__countdown-container">
-		<div id="clockdiv">
+		<div id="clockdiv" style="visibility:hidden">
 			<span class="ljs-header-cta__countdown-days"></span>
 			<span class="ljs-header-cta__countdown-smalltext">Days</span>
 			<span class="ljs-header-cta__countdown-hours"></span>
@@ -20,11 +20,7 @@ Template Name: Homepage
 		</div>
 	</div>
 	<div class="ljs-header-cta__cta-container">
-		<a
-			class="ljs-header-cta__ticket-purchase"
-			href="/product/2018-ticket/">
-			Purchase
-		</a>
+		SOLD OUT!
 	</div>
 </div>
 
