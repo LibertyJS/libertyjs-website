@@ -314,11 +314,11 @@ get_header();
 			<div class="ljs-template-schedule__speaker ljs-template-schedule__speaker-three">
 				<div class="ljs-template-schedule__speaker-body">
 					<div class="ljs-template-schedule__speaker-info">
-						<span class="ljs-template-schedule__time">TBA</span>
+						<span class="ljs-template-schedule__time">05:00 - 07:00 PM</span>
 						<span class="ljs-template-schedule__name">
-							Afterparty at TBA
+							Afterparty at The Plough and the Stars
 						</span>
-						<span class="ljs-template-schedule__title"></span>
+						<span class="ljs-template-schedule__title">Show your LibertyJS badge and ID to get in! (21 and over)</span>
 					</div>
 				</div>
 			</div>
