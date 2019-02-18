@@ -52,7 +52,7 @@
       font-size: 30px;
     }
   </style>
-  <title>Document</title>
+  <title>LibertyJS - Philadelphia JavaScript Conference</title>
 </head>
 <body>
   <section id="main">
