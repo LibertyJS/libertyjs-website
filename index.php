@@ -24,7 +24,7 @@
         rgba(0, 0, 0, 0.7),
         rgba(0, 21, 104, 0.4)
       ),
-      url('<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/themes439.jpg');
+      url('<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/439.jpg');
       background-size: cover;
       background-position: center;
     }
