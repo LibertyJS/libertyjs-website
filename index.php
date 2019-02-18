@@ -24,7 +24,7 @@
         rgba(0, 0, 0, 0.7),
         rgba(0, 21, 104, 0.4)
       ),
-      url('439.jpg');
+      url('<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/themes439.jpg');
       background-size: cover;
       background-position: center;
     }
@@ -58,7 +58,7 @@
   <section id="main">
     <div class="overlay"></div>
     <div id="center">
-      <img src="logo-Dark-BG.png" alt="Liberty JS Logo">
+      <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/logo-Dark-BG.png" alt="Liberty JS Logo">
 
       <p class="dates">October 24-25, 2019</p>
       <p class="venue">National Museum of American Jewish History.</p>
