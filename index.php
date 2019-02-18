@@ -61,7 +61,8 @@
       <img src="https://libertyjs.com/wp-content/uploads/2019/02/logo-Dark-BG.png" alt="Liberty JS Logo">
 
       <p class="dates">October 24-25, 2019</p>
-      <p class="venue">National Museum of American Jewish History.</p>
+      <p class="venue">National Museum of American Jewish History</p>
+      <p class="venue"> Philadelphia, PA</p>
     </div>
   </section>
 </body>
