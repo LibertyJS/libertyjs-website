@@ -35,16 +35,19 @@
       position: absolute;
       background: rgba(0, 36, 178, 0.5);
     }
-    #center {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      width: 400px;
+    .center {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
     }
     img {
+	  align-self: center;
+	  max-width: 280px;
       width: 70%;
     }
+	p {
+	  margin: 0.5em;
+	}
     .dates {
       font-size: 44px;
     }
@@ -55,15 +58,13 @@
   <title>LibertyJS - Philadelphia JavaScript Conference</title>
 </head>
 <body>
-  <section id="main">
-    <div class="overlay"></div>
-    <div id="center">
+    <div class="center">
       <img src="https://libertyjs.com/wp-content/uploads/2019/02/logo-Dark-BG.png" alt="Liberty JS Logo">
 
       <p class="dates">October 24-25, 2019</p>
       <p class="venue">National Museum of American Jewish History</p>
       <p class="venue"> Philadelphia, PA</p>
     </div>
-  </section>
+	<div class="overlay"></div>
 </body>
 </html>
