@@ -19,25 +19,15 @@
     }
     body {
       background:
-      linear-gradient(
-        rgba(0, 21, 104, 0.4),
-        rgba(0, 0, 0, 0.7),
-        rgba(0, 21, 104, 0.4)
-      ),
+      linear-gradient( rgba(4, 14, 51, 0.85), rgba(10, 29, 105, 0.75), rgba(4, 14, 51, 0.85) ),
       url('https://libertyjs.com/wp-content/uploads/2019/02/439.jpg');
       background-size: cover;
       background-position: center;
     }
-    .overlay {
-      width:100%;
-      height:100%;
-      mix-blend-mode: multiply;
-      position: absolute;
-      background: rgba(0, 36, 178, 0.5);
-    }
     .center {
       display: flex;
       flex-direction: column;
+	  height: 100%;
       justify-content: center;
     }
     img {
@@ -65,6 +55,5 @@
       <p class="venue">National Museum of American Jewish History</p>
       <p class="venue"> Philadelphia, PA</p>
     </div>
-	<div class="overlay"></div>
 </body>
 </html>
