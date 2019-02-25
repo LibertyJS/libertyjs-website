@@ -53,7 +53,8 @@
 
       <p class="dates">October 24-25, 2019</p>
       <p class="venue">National Museum of American Jewish History</p>
-      <p class="venue"> Philadelphia, PA</p>
+      <p class="venue">Philadelphia, PA</p>
+      <p><a href="https://www.papercall.io/libertyjs-2019" style="color: #ffc214;">CFP is now open!</a></p>
     </div>
 </body>
 </html>
